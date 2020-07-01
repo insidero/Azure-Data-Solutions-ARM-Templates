@@ -5,5 +5,9 @@ A repository for managing ARM templates for Azure Data solutions. This repositto
 
 Open to contributions.
 
+# Author 
+Hamza Rashid Bodla
+email: hamzabodla@gmail.com
+
 # License
  Mozilla Public License 2.0
