@@ -7,7 +7,7 @@ Open to contributions.
 
 # Author 
 Hamza Rashid Bodla
-email: hamzabodla@gmail.com
+- email: hamzabodla@gmail.com
 
 # License
  Mozilla Public License 2.0
