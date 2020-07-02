@@ -116,7 +116,7 @@
                     "properties": {
                         "activities": [
                             {
-                                "name": "MyCopyActivity",
+                                "name": "CsvCopyActivity",
                                 "type": "Copy",
                                 "dependsOn": [],
                                 "policy": {
