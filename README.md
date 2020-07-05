@@ -3,7 +3,7 @@ A repository for managing ARM templates for Azure Data solutions. This repositto
 
 # Contributing
 
-Open to contributions.
+This project welcomes contributions and suggestions. Contributing to this project requires you declaring that you have the right to, and actually do, grant me the rights to use your contribution.
 
 # Author 
 Hamza Rashid Bodla
